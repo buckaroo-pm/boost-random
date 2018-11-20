@@ -1,0 +1,53 @@
+targets = [ "//:random" ]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-assert"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-config"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-core"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-integer"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-io"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-math"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-mpl"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-range"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-static_assert"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-system"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-throw_exception"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-type_traits"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-utility"
+version = "branch=master"
