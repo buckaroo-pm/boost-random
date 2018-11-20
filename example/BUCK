@@ -1,0 +1,9 @@
+cxx_binary(
+  name = 'password', 
+  srcs = [
+    'password.cpp', 
+  ], 
+  deps = [
+    '//:random', 
+  ], 
+)
