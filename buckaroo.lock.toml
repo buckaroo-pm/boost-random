@@ -62,7 +62,7 @@ revision = "ea0eab9a8cf538aa81a7d53f1762a5ff7e628e73"
 
 [lock."github.com/buckaroo-pm/boost-assert"]
 versions = [ "branch=master" ]
-revision = "fc4d65435c49b5b4fbbf0d4867ee8f69bfd42ef1"
+revision = "417f80abf86251b29609a9747dae7756236699aa"
 
 [lock."github.com/buckaroo-pm/boost-concept_check"]
 versions = [ "branch=master" ]
@@ -110,7 +110,7 @@ revision = "040e45441844325cf42bbb45b275c32203a95375"
 
 [lock."github.com/buckaroo-pm/boost-math"]
 versions = [ "branch=master" ]
-revision = "daa2a5e51a7bcfaa5b3235fb3016ea1728e7a48c"
+revision = "83091dd8c4b3939e58a3619104504cdda212673a"
 
 [lock."github.com/buckaroo-pm/boost-move"]
 versions = [ "branch=master" ]
@@ -146,7 +146,7 @@ revision = "8256c9846a133573ff959e0a7dc0cadb8fba5192"
 
 [lock."github.com/buckaroo-pm/boost-system"]
 versions = [ "branch=master" ]
-revision = "d98315738ee47380f52e43d790d1c42cf549b175"
+revision = "16cad275bcf88549063d1f01a4fbf483ea36e7cd"
 
 [lock."github.com/buckaroo-pm/boost-throw_exception"]
 versions = [ "branch=master" ]
