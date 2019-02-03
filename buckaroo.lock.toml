@@ -54,7 +54,7 @@ target = "//:utility"
 
 [lock."github.com/buckaroo-pm/boost-algorithm"]
 versions = [ "branch=master" ]
-revision = "81660693b6473d0ec6d000a01fd74b7dadd22106"
+revision = "eab7c8d0b43f176fa15e6d541a953e56643c2a62"
 
 [lock."github.com/buckaroo-pm/boost-align"]
 versions = [ "branch=master" ]
@@ -62,7 +62,7 @@ revision = "6da7695406e00e3f59c47f1b0a369710db6e51f8"
 
 [lock."github.com/buckaroo-pm/boost-array"]
 versions = [ "branch=master" ]
-revision = "f326ae1e1b93216ce40e098a2baed4cc152d06ef"
+revision = "33b398e1da5f9267d4c1e54df8651beaee611102"
 
 [lock."github.com/buckaroo-pm/boost-assert"]
 versions = [ "branch=master" ]
@@ -70,7 +70,7 @@ revision = "f9d6a7b63ef2902777b6078fdebc54e7a57aac03"
 
 [lock."github.com/buckaroo-pm/boost-atomic"]
 versions = [ "branch=master" ]
-revision = "54e906eaa9d71c68bd0d990727f060e81389f3cb"
+revision = "3c7e658914247c4b27511d2a46f59be614e2f7bf"
 
 [lock."github.com/buckaroo-pm/boost-bind"]
 versions = [ "branch=master" ]
@@ -130,7 +130,7 @@ revision = "d812ed3ac7c7d573249e49fe23aa12339629c730"
 
 [lock."github.com/buckaroo-pm/boost-io"]
 versions = [ "branch=master" ]
-revision = "70c28ebaa83b1fd6907db8f542d7be8abc6835b4"
+revision = "e6f5b8de720f0a55409b6ef901f9ae7e676c6cd9"
 
 [lock."github.com/buckaroo-pm/boost-iterator"]
 versions = [ "branch=master" ]
@@ -190,7 +190,7 @@ revision = "1db2ae17e5e5b188688bbab0fca61731b4d9d6d8"
 
 [lock."github.com/buckaroo-pm/boost-serialization"]
 versions = [ "branch=master" ]
-revision = "9e8d936f28b7a384aa6988875967bc43ca665286"
+revision = "38c41c38fa602585abfe131b1c889310dbaadf24"
 
 [lock."github.com/buckaroo-pm/boost-smart_ptr"]
 versions = [ "branch=master" ]
@@ -202,7 +202,7 @@ revision = "fdc2df7f811436674a1c55c766b8830a8cd02e96"
 
 [lock."github.com/buckaroo-pm/boost-system"]
 versions = [ "branch=master" ]
-revision = "16cad275bcf88549063d1f01a4fbf483ea36e7cd"
+revision = "623a2c80a8448da0df4e7f20102e9e929e355551"
 
 [lock."github.com/buckaroo-pm/boost-test"]
 versions = [ "branch=master" ]
@@ -246,7 +246,7 @@ revision = "f04cf922658a7e03776631a96c3ad346ad179d5f"
 
 [lock."github.com/buckaroo-pm/boost-winapi"]
 versions = [ "branch=master" ]
-revision = "92c47b2e1db8a7c023d394e979f81438b410fd18"
+revision = "44002f228a0b91c556cd41f8ceb5b4bff7745166"
 
 [lock."github.com/buckaroo-pm/icu4c"]
 versions = [ "branch=master" ]
