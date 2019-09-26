@@ -1,3 +1,10 @@
-/doc/html
-/doc/reference.xml
-/test/rng.saved
+.buckd
+buck-out
+.buckconfig.local
+.buckconfig.d
+buckaroo
+buckaroo-packages
+cache
+BUCKAROO_DEPS
+buckaroo_macros.bzl
+bazel-*
