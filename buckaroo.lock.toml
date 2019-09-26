@@ -1,0 +1,25 @@
+manifest = "a00e0a5570e08950f2eddaf9188a114535f041325ffa357b467641af4d5ee6d3"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-config"
+target = "//:config"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-integer"
+target = "//:integer"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-utility"
+target = "//:utility"
+
+[lock."github.com/buckaroo-pm/boost-config"]
+versions = [ "1.70.0" ]
+revision = "621639c62278b2dbac92480da0536c5d048f58e2"
+
+[lock."github.com/buckaroo-pm/boost-integer"]
+versions = [ "1.70.0" ]
+revision = "bce7a4f4202265989ed608ed56591a8d464ce8f8"
+
+[lock."github.com/buckaroo-pm/boost-utility"]
+versions = [ "1.70.0" ]
+revision = "d7e64ec8138f0545de5dedd1ccf88d32da1e049c"
